@@ -15,7 +15,7 @@ https://drive.google.com/file/d/1J6OrgZprLFiWMVhQz8v6bZiclNM5rvdP/view?usp=shari
 * Express.js
 * MongoDB
 
-## Api Testing :
+## API Testing :
 * Postman
   
 ## How it works?
